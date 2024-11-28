@@ -61,8 +61,6 @@ This project demonstrates the use of **Python for web scraping** and **Power BI 
 
 ![Partywise Seates](image3.png)
 
-## Interactive Dashboard
-![View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFiMjJmNTUtNWM5NC00OGEwLTk4ZjYtZTJjOWYyNjVmN2FjIiwidCI6IjlmYzdjOWQ0LWQ2MjctNGRmNy05NGE3LWQwMDhhYzQ3MDM4NyJ9)
 
 ## Results
 - Comprehensive analysis of party performances:
