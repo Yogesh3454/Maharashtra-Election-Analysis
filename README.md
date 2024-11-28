@@ -78,49 +78,49 @@ This project demonstrates the use of **Python for web scraping** and **Power BI 
 - **Data Processing:** Python, Power BI.
 
 ## How to Run the Project
-**Step 1: Install Power BI Desktop**
+#### **Step 1: Install Power BI Desktop**
 Download and install Power BI Desktop from the official Microsoft website.
 Ensure that your system meets the minimum requirements to run Power BI.
 
-**Step 2: Download the Project Files**
+#### **Step 2: Download the Project Files**
 Clone the project repository or download it as a ZIP file:
 ```bash
 git clone https://github.com/your-repository/project-link.git
 ```
 Extract the ZIP file (if downloaded) to your local system.
 
-**Step 3: Open the Power BI File**
+#### **Step 3: Open the Power BI File**
 Navigate to the folder containing the project files.
 Locate the .pbix file (e.g., Maharashtra_Election_Analysis.pbix).
 Double-click the .pbix file, or open it from Power BI Desktop:
 Launch Power BI Desktop.
 Go to File > Open and select the .pbix file.
 
-**Step 4: Connect to the Data Source (Optional)**
+#### **Step 4: Connect to the Data Source (Optional)**
 If the dataset is stored locally or hosted online, Power BI may prompt you to verify or update the data source.
 Update the file path or web link for the data source if required:
 Go to Transform Data > Data Source Settings.
 Update the path or credentials as needed.
 
-**Step 5: Refresh the Data**
+#### **Step 5: Refresh the Data**
 Click the Refresh button in Power BI to load the latest data.
 Ensure the data connections are valid and the required files (e.g., CSV or database) are accessible.
 
-**Step 6: Explore the Dashboard**
+#### **Step 6: Explore the Dashboard**
 Navigate through the pages of the dashboard to explore various visualizations:
 Party-wise Seat Distribution.
 Regional Trends and Maps.
 Candidate-Wise Performance.
 Use slicers, filters, and tooltips for interactive analysis.
 
-**Step 7: Publish the Dashboard (Optional)**
+#### **Step 7: Publish the Dashboard (Optional)**
 To share the dashboard:
 Go to File > Publish > Publish to Power BI Service.
 Log in with your Power BI account.
 Select a workspace and upload the file.
 Share the link to your dashboard with stakeholders.
 
-**Step 8: Troubleshooting**
+#### **Step 8: Troubleshooting**
 - Missing Data Source: Check if the data file (e.g., CSV or database) is in the correct location.
 - Data Refresh Issues: Verify network connectivity and data access permissions.
 - Performance: Optimize the data model by reducing the size of datasets or disabling unnecessary visualizations.
