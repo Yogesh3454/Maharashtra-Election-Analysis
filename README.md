@@ -16,11 +16,11 @@ This project demonstrates the use of **Python for web scraping** and **Power BI 
    
 ## Key Features
 ### Interactive Dashboard:
-(View the Interactive Power BI Dashboard)[https://app.powerbi.com/view?r=eyJrIjoiZmFiMjJmNTUtNWM5NC00OGEwLTk4ZjYtZTJjOWYyNjVmN2FjIiwidCI6IjlmYzdjOWQ0LWQ2MjctNGRmNy05NGE3LWQwMDhhYzQ3MDM4NyJ9]
+[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFiMjJmNTUtNWM5NC00OGEwLTk4ZjYtZTJjOWYyNjVmN2FjIiwidCI6IjlmYzdjOWQ0LWQ2MjctNGRmNy05NGE3LWQwMDhhYzQ3MDM4NyJ9)
 
 ### Python Web Scraping:
 - Extracted detailed election data such as party names, seat counts, leading and trailing candidates, and constituency-level performance using Python libraries.
-- (View Web Scraping Code)[https://github.com/Yogesh3454/Maharashtra-Election-Analysis/blob/main/web_scraping_all_pages.py] 
+- [View Web Scraping Code](https://github.com/Yogesh3454/Maharashtra-Election-Analysis/blob/main/web_scraping_all_pages.py)
 
 ### Power BI Dashboard:
 - Visualized party-wise seat distribution using bar and pie charts.
@@ -29,11 +29,11 @@ This project demonstrates the use of **Python for web scraping** and **Power BI 
 
 ## Data Sources
 - Election data scraped from the Election Commission of India website.
-- (Scraped Data is Here...)[https://github.com/Yogesh3454/Maharashtra-Election-Analysis/blob/main/Election%20Result.csv]
+- [Scraped Data is Here...](https://github.com/Yogesh3454/Maharashtra-Election-Analysis/blob/main/Election%20Result.csv)
   
 ## Steps to Reproduce
 ### 1) Web Scraping:
-- Download the Python web scraping script from this link (replace with your link).
+- Download the Python web scraping script from **Data Source*.
 - Follow the instructions in the script to extract data from the Election Commission website.
 
 ### 2) Data Cleaning:
@@ -52,14 +52,14 @@ This project demonstrates the use of **Python for web scraping** and **Power BI 
 
 ## Project Screenshots
 **Party-Wise Seat Distribution:**
-  - BJP+SHS+NCP (BJP+SHS+NCP)[image.png]
+  - BJP+SHS+NCP [BJP+SHS+NCP](image.png)
 
-  - INC+SHSUBT+NCPSP (INC+SHSUBT+NCPSP)[image 1.png]
-(Bar chart)[]
-(Partywise Seates)[]
+  - INC+SHSUBT+NCPSP [INC+SHSUBT+NCPSP](image 1.png)
+(Bar chart)[image 2 - Copy.png]
+(Partywise Seates)[image 3.png]
 
 ## Interactive Dashboard
-!(View Power BI Dashboard)[https://app.powerbi.com/view?r=eyJrIjoiZmFiMjJmNTUtNWM5NC00OGEwLTk4ZjYtZTJjOWYyNjVmN2FjIiwidCI6IjlmYzdjOWQ0LWQ2MjctNGRmNy05NGE3LWQwMDhhYzQ3MDM4NyJ9]
+![View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFiMjJmNTUtNWM5NC00OGEwLTk4ZjYtZTJjOWYyNjVmN2FjIiwidCI6IjlmYzdjOWQ0LWQ2MjctNGRmNy05NGE3LWQwMDhhYzQ3MDM4NyJ9)
 
 ## Results
 - Comprehensive analysis of party performances:
@@ -127,7 +127,7 @@ Share the link to your dashboard with stakeholders.
 
 
 ## LinkedIn Post
-(View LinkedIn Post.)[https://www.linkedin.com/posts/yogeshgunjal75_doc-activity-7267454239839281152-lkS9/?utm_source=share&utm_medium=member_android]
+[View LinkedIn Post.](https://www.linkedin.com/posts/yogeshgunjal75_doc-activity-7267454239839281152-lkS9/?utm_source=share&utm_medium=member_android)
 
 
 
