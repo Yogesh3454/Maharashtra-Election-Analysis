@@ -57,7 +57,7 @@ This project demonstrates the use of **Python for web scraping** and **Power BI 
 
 ![INC+SHSUBT+NCPSP](image1.png)
 
-![Bar chart](image2-Copy.png)
+![Bar chart](image2.png)
 
 ![Partywise Seates](image3.png)
 
