@@ -85,7 +85,7 @@ Ensure that your system meets the minimum requirements to run Power BI.
 #### **Step 2: Download the Project Files**
 Clone the project repository or download it as a ZIP file:
 ```bash
-git clone https://github.com/your-repository/project-link.git
+https://github.com/Yogesh3454/Maharashtra-Election-Analysis
 ```
 Extract the ZIP file (if downloaded) to your local system.
 
